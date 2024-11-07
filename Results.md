@@ -12,8 +12,4 @@ decent-sized files to the server.
 
 ## Server
 
-We changed it to add a new thread every time.
-
-## Client
-
-We changed the client to handle all of the new threads from the server.
+We changed it to add a new thread for every client that connects to the server.
